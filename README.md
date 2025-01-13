@@ -20,3 +20,10 @@ As mentioned before this is not a problem. But it can be used in different situa
 
 It is not complicated. It is very easy. It can be used in every situation and at any time when someone takes a picture. 
 
+<img width="378" alt="Skärmavbild 2025-01-13 kl  22 07 18" src="https://github.com/user-attachments/assets/1566df8b-9fd3-45f1-b52e-ecdb116f4d1b" /> 
+
+This image is mine. I took this one when I was traveling and it shows the view from the window in a plane. I have made a red circle on the picture. The idea is if I want to add music directly to this image I should press "Edit". The next picture will show how the option to add music should also be added.  
+
+<img width="375" alt="Skärmavbild 2025-01-13 kl  22 14 47" src="https://github.com/user-attachments/assets/60e39dc6-a817-44bd-9fae-f85e4cbe1c04" /> 
+
+This picture shows what happens when you press the "Edit" and if have an iPhone it will be the same as my picture. But you can also see the option/idea of mine in this picture. I have added headphones it is where the AI could add to the camera so people can add music to their pictures while looking at a picture. This should be happening without downloading an app or editing much of the picture.   
